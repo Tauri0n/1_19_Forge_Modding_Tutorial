@@ -3,6 +3,8 @@ package ch.tauri0n.tutorialmod;
 import ch.tauri0n.tutorialmod.block.ModBlocks;
 import ch.tauri0n.tutorialmod.item.ModItems;
 import com.mojang.logging.LogUtils;
+import net.minecraft.client.renderer.ItemBlockRenderTypes;
+import net.minecraft.client.renderer.RenderType;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
